@@ -1,0 +1,21 @@
+# Target Group
+
+O Target Group é um recurso da AWS (Amazon Web Services) utilizado em conjunto com o Application Load Balancer (ALB). Ele é responsável por direcionar o tráfego de entrada para os serviços ou instâncias corretas dentro de um ambiente de aplicação.
+
+## Funcionamento
+
+O Target Group atua como um roteador de tráfego, recebendo as requisições do ALB e encaminhando-as para os destinos corretos. Ele utiliza critérios de roteamento, como regras de encaminhamento baseadas em caminhos de URL, para determinar para qual serviço ou instância enviar cada requisição.
+
+## Utilização
+
+O Target Group é amplamente utilizado em ambientes de aplicação que necessitam de escalabilidade e alta disponibilidade. Alguns exemplos de uso incluem:
+
+1. Balanceamento de carga: O Target Group permite distribuir o tráfego de entrada de forma equilibrada entre várias instâncias ou serviços, garantindo que nenhum deles fique sobrecarregado.
+
+2. Auto Scaling: Ao utilizar o Target Group em conjunto com o serviço de Auto Scaling da AWS, é possível adicionar ou remover instâncias automaticamente de acordo com a demanda de tráfego. O Target Group é responsável por direcionar as requisições para as instâncias em funcionamento.
+
+3. Roteamento baseado em conteúdo: É possível configurar o Target Group para encaminhar as requisições com base em critérios específicos, como caminhos de URL, cabeçalhos HTTP ou cookies. Isso permite direcionar as requisições para diferentes serviços ou instâncias com base no conteúdo da requisição.
+
+## Conclusão
+
+O Target Group é um recurso essencial para o funcionamento eficiente de um Application Load Balancer na AWS. Ele permite o roteamento inteligente do tráfego de entrada, garantindo escalabilidade, alta disponibilidade e flexibilidade na distribuição das requisições para os serviços ou instâncias corretas.
