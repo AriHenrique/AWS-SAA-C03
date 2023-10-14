@@ -13,6 +13,23 @@ O objetivo principal deste repositório é fornecer a você uma estrutura organi
 ## Conteúdo
 
 ### 1. [Resumo da Certificação](./aws_saa_c03/conteudo_md/certification-summary.md)
+|                                       Material disponivel                                        | estudos concluidos |
+|:------------------------------------------------------------------------------------------------:|--------------------|
+| [Os Conceitos de Cloud Computing](./aws_saa_c03/assuntos/conceitos_cloud_computing.md) &#x2611;  | &check;            |
+|                 [A Amazon AWS](./aws_saa_c03/assuntos/amazon_aws.md)   &#x2611;                  | &check;            |
+|                [IAM e Acess Management](./aws_saa_c03/assuntos/iam.md)  &#x2611;                 | &check;            |
+|             [ARCHITECT - Armazenamento AWS](./aws_saa_c03/assuntos/s3.md)  &#x2611;              | &check;            |
+|              [ARCHITECT - Servidores EC2](./aws_saa_c03/assuntos/ec2.md)  &#x2611;               | &check;            |
+|                    [ARCHITECT - VPC](./aws_saa_c03/assuntos/vpc.md)  &#x2611;                    | &check;            |
+| [Load Balancers e Auto Scaling](./aws_saa_c03/assuntos/auto_scaling_load_balancers.md) &#x2611;  | &check;            |
+|             [ARCHITECT - Database AWS](./aws_saa_c03/assuntos/database.md)  &#x2611;             | &check;            |
+|      [DNS, Cache e Performance](./aws_saa_c03/assuntos/dns_cache_performance.md)  &#x2610;       | &cross;            |
+|          [Block e File Storage](./aws_saa_c03/assuntos/block_file_storage.md)  &#x2610;          | &cross;            |
+|         [ARCHITECT - Aplicações AWS](./aws_saa_c03/assuntos/aplicacoes_aws.md)  &#x2610;         | &cross;            |
+|                 [Serverless Lambda](./aws_saa_c03/assuntos/lambda.md)  &#x2610;                  | &cross;            |
+|           [Segurança na Cloud](./aws_saa_c03/assuntos/seguranca_na_cloud.md)  &#x2610;           | &cross;            |
+|            [ARCHITECT - Finalizando](./aws_saa_c03/assuntos/finalizando.md)  &#x2610;            | &cross;            |
+
 
 Neste documento, você encontrará um resumo das principais informações sobre a certificação AWS Solutions Architect Associate, incluindo tópicos abordados e dicas de estudo.
 
