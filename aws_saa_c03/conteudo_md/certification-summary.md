@@ -13,4 +13,3 @@
 |        [ARCHITECT - Aplicações AWS](./assuntos/aplicacoes_aws.md)  &#x2610;         | &cross;            |
 |                 [Serverless Lambda](./assuntos/lambda.md)  &#x2610;                 | &cross;            |
 |          [Segurança na Cloud](./assuntos/seguranca_na_cloud.md)  &#x2610;           | &cross;            |
-|           [ARCHITECT - Finalizando](./assuntos/finalizando.md)  &#x2610;            | &cross;            |
