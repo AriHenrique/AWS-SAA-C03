@@ -12,7 +12,7 @@ O objetivo principal deste repositório é fornecer a você uma estrutura organi
 
 ## Conteúdo
 
-### 1. [Resumo da Certificação](./aws_saa_c03/conteudo_md/conteudo_md/certification-summary.md)
+### 1. [Resumo da Certificação](./aws_saa_c03/conteudo_md/certification-summary.md)
 |                                             Material disponivel                                             | estudos concluidos |
 |:-----------------------------------------------------------------------------------------------------------:|--------------------|
 | [Os Conceitos de Cloud Computing](./aws_saa_c03/conteudo_md/assuntos/conceitos_cloud_computing.md) &#x2611; | &check;            |
@@ -33,15 +33,15 @@ O objetivo principal deste repositório é fornecer a você uma estrutura organi
 
 Neste documento, você encontrará um resumo das principais informações sobre a certificação AWS Solutions Architect Associate, incluindo tópicos abordados e dicas de estudo.
 
-### 2. [Recursos de Estudo](./aws_saa_c03/conteudo_md/conteudo_md/study-resources.md)
+### 2. [Recursos de Estudo](./aws_saa_c03/conteudo_md/study-resources.md)
 
 Listaremos aqui uma variedade de recursos de estudo recomendados, como livros, cursos online, documentação oficial da AWS e vídeos educacionais. Esses recursos serão úteis para aprofundar seus conhecimentos sobre os tópicos abordados no exame.
 
-### 3. [Exemplos de Perguntas](./aws_saa_c03/conteudo_md/conteudo_md/sample-questions.md)
+### 3. [Exemplos de Perguntas](./aws_saa_c03/conteudo_md/sample-questions.md)
 
 Neste arquivo, você encontrará algumas perguntas de prática para testar seus conhecimentos e se familiarizar com o formato das questões do exame.
 
-### 4. [Dicas de Preparação](./aws_saa_c03/conteudo_md/conteudo_md/study-tips.md)
+### 4. [Dicas de Preparação](./aws_saa_c03/conteudo_md/study-tips.md)
 
 Compartilharemos dicas valiosas sobre como se preparar de forma eficaz para o exame AWS Solutions Architect Associate. Essas dicas podem ajudá-lo a otimizar seu tempo de estudo.
 

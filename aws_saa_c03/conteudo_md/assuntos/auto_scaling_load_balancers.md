@@ -43,3 +43,31 @@ O Application Load Balancer (ALB) pode ser usado em conjunto com o Amazon EC2 Au
 **Exemplo:** Se a carga aumentar em seu aplicativo, o Auto Scaling pode adicionar novas instâncias EC2 e o ALB irá distribuir o tráfego entre elas.
 
 Esses tópicos abrangem os fundamentos dos Load Balancers e como eles são usados em conjunto com o Auto Scaling na AWS. Se você tiver dúvidas adicionais ou precisar de exemplos mais específicos, sinta-se à vontade para perguntar.
+
+# Route53
+
+O **Route53** é um serviço de DNS (Domain Name System) oferecido pela AWS (Amazon Web Services). Ele permite que você registre e gerencie nomes de domínio, como exemplo.com, e associe esses nomes a recursos da AWS, como instâncias EC2, balanceadores de carga, buckets do S3, entre outros.
+
+## Principais recursos do Route53
+
+- **Registro de domínio**: o Route53 permite que você registre novos domínios diretamente através do serviço. Ele também oferece a opção de transferir domínios existentes de outros registradores para a AWS.
+
+- **Gerenciamento de DNS**: o Route53 permite que você configure e gerencie registros DNS para seus domínios. Isso inclui a criação de registros A, CNAME, MX, TXT, entre outros.
+
+- **Resolução de DNS**: o Route53 é responsável por resolver solicitações de DNS e direcioná-las para os recursos corretos da AWS. Ele oferece alta disponibilidade e baixa latência na resolução de DNS.
+
+- **Roteamento de tráfego**: o Route53 permite que você configure regras de roteamento de tráfego com base em políticas de balanceamento de carga, geolocalização, latência, entre outros. Isso permite que você distribua o tráfego entre diferentes recursos da AWS de forma eficiente.
+
+## Exemplos de uso do Route53
+
+- **Registro de domínio**: você pode usar o Route53 para registrar um novo domínio, como exemplo.com, e associá-lo aos recursos da AWS que desejar.
+
+- **Configuração de registros DNS**: você pode usar o Route53 para configurar registros DNS, como registros A para direcionar um domínio para um endereço IP específico, registros CNAME para criar aliases de domínio, registros MX para configurar servidores de e-mail, entre outros.
+
+- **Balanceamento de carga**: o Route53 pode ser usado para configurar políticas de balanceamento de carga, distribuindo o tráfego entre diferentes instâncias EC2 ou outros recursos da AWS.
+
+- **Failover**: o Route53 permite configurar políticas de failover, redirecionando o tráfego para recursos de backup em caso de falha dos recursos primários.
+
+- **Geolocalização**: o Route53 permite direcionar o tráfego com base na localização geográfica dos usuários, redirecionando-os para servidores mais próximos.
+
+Esses são apenas alguns exemplos de como o Route53 pode ser utilizado. Ele oferece uma ampla gama de recursos para gerenciar e direcionar o tráfego de DNS em sua infraestrutura na AWS.
