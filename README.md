@@ -1,6 +1,6 @@
 # Repositório de Estudo AWS Solutions Architect Associate 2023
 
-<p align="center"><img src="./aws_saa_c03/conteudo_md/img/capa_saa.png" style=" margin: auto; display: block;"/></p>
+<p align="center"><img src="./aws_saa_c03/img/capa_saa.png" style=" margin: auto; display: block;"/></p>
 
 ## Descrição
 
